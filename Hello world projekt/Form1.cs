@@ -16,5 +16,15 @@ namespace Hello_world_projekt
         {
             InitializeComponent();
         }
+
+        private void Hello_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guzik_Click(object sender, EventArgs e)
+        {
+            Hello.Text = "Hello World";
+        }
     }
 }
