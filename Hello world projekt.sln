@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obraz", "Obraz\Obraz.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math quiz", "math quiz\math quiz.csproj", "{7391F297-7D65-4B04-ADC0-A9D23615FBF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matching game", "Matching game\Matching game.csproj", "{DD687997-1EB6-43A8-8C74-E9546861887B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7391F297-7D65-4B04-ADC0-A9D23615FBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7391F297-7D65-4B04-ADC0-A9D23615FBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7391F297-7D65-4B04-ADC0-A9D23615FBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD687997-1EB6-43A8-8C74-E9546861887B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD687997-1EB6-43A8-8C74-E9546861887B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD687997-1EB6-43A8-8C74-E9546861887B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD687997-1EB6-43A8-8C74-E9546861887B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
